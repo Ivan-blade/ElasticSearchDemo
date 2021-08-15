@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3851654-dab0-4841-aea4-5477277f80b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Develop\localRepository" />
+        <option name="mavenHome" value="D:/Soft/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Soft\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ioTWRhm2pzOuT6HGz51uzAsoTM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lagou" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.EsclientApplicationTests2.nativeQuery">
+    <configuration name="EsclientApplicationTests2.findByPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="esclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.EsclientApplicationTests2" />
+      <option name="METHOD_NAME" value="findByPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsclientApplicationTests2.init" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="esclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.EsclientApplicationTests2" />
+      <option name="METHOD_NAME" value="init" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsclientApplicationTests2.insertDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="esclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.EsclientApplicationTests2" />
+      <option name="METHOD_NAME" value="insertDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsclientApplicationTests2.nativeQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="esclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.EsclientApplicationTests2" />
+      <option name="METHOD_NAME" value="nativeQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsclientApplicationTests2.testNativeQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="esclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.EsclientApplicationTests2" />
+      <option name="METHOD_NAME" value="testNativeQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsclientApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="esclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.EsclientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="esclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.esclient.EsclientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EsclientApplicationTests2.nativeQuery" />
+        <item itemvalue="JUnit.EsclientApplicationTests2.testNativeQuery" />
+        <item itemvalue="JUnit.EsclientApplicationTests2.insertDocument" />
+        <item itemvalue="JUnit.EsclientApplicationTests2.init" />
+        <item itemvalue="JUnit.EsclientApplicationTests2.findByPrice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.24238321" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3851654-dab0-4841-aea4-5477277f80b2" name="Default Changelist" comment="" />
+      <created>1602572975187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602572975187</updated>
+      <workItem from="1602572976410" duration="1310000" />
+      <workItem from="1602574345762" duration="25953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="77" key="#Project_Structure" timestamp="1602572977250">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="77" key="#Project_Structure/0.0.1549.831@0.0.1549.831" timestamp="1602572977250" />
+    <state x="580" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1602647053356">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="580" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1602647053356" />
+    <state x="505" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602644678201">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="505" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1549.831@0.0.1549.831" timestamp="1602644678201" />
+    <state x="555" y="174" key="FileChooserDialogImpl" timestamp="1602573627043">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="555" y="174" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1602573627043" />
+    <state width="1506" height="254" key="GridCell.Tab.0.bottom" timestamp="1602651940656">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="254" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1602651940656" />
+    <state width="1506" height="254" key="GridCell.Tab.0.center" timestamp="1602651940656">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="254" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1602651940656" />
+    <state width="1506" height="254" key="GridCell.Tab.0.left" timestamp="1602651940656">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="254" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1602651940656" />
+    <state width="1506" height="254" key="GridCell.Tab.0.right" timestamp="1602651940656">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="254" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1602651940656" />
+    <state width="1506" height="254" key="GridCell.Tab.1.bottom" timestamp="1602651940656">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="254" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1602651940656" />
+    <state width="1506" height="254" key="GridCell.Tab.1.center" timestamp="1602651940656">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="254" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1602651940656" />
+    <state width="1506" height="254" key="GridCell.Tab.1.left" timestamp="1602651940656">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="254" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1602651940656" />
+    <state width="1506" height="254" key="GridCell.Tab.1.right" timestamp="1602651940656">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="254" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1602651940656" />
+    <state x="305" y="74" key="Maven.ArtifactSearchDialog" timestamp="1602573820558">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="305" y="74" key="Maven.ArtifactSearchDialog/0.0.1549.831@0.0.1549.831" timestamp="1602573820558" />
+    <state x="255" y="0" key="SettingsEditor" timestamp="1602574540938">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="255" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1602574540938" />
+    <state x="330" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602580869606">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="330" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1549.831@0.0.1549.831" timestamp="1602580869606" />
+    <state x="179" y="32" key="new project wizard" timestamp="1602574755661">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="179" y="32" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1602574755661" />
+    <state x="482" y="48" key="refactoring.ChangeSignatureDialog" timestamp="1602597010448">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="482" y="48" key="refactoring.ChangeSignatureDialog/0.0.1549.831@0.0.1549.831" timestamp="1602597010448" />
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1602582630028">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1602582630028" />
+  </component>
+</project>

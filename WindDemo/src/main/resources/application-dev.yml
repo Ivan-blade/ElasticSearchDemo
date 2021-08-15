@@ -1,0 +1,14 @@
+spring:
+  redis:
+    password:
+    cluster:
+      nodes: 10.200.126.163:7001,10.200.126.163:7002,10.200.126.163:7003
+      max-redirects: 3
+    lettuce:
+      pool:
+        max-idle: 3
+        max-active: 5
+        min-idle: 1
+elasticsearch:
+  clusterName: lzxsearch
+  clusterNodes: 10.202.16.9:9301,10.202.16.9:9302,10.202.16.10:9301
